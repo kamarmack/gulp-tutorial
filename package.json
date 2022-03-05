@@ -1,0 +1,12 @@
+{
+  "author": "Kamar Mack",
+  "description": "TS + gulp tutorial <https://www.typescriptlang.org/docs/handbook/gulp.html>",
+  "keywords": [],
+  "license": "ISC",
+  "main": "./dist/main.js",
+  "name": "gulp-playground",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
