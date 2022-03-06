@@ -1,6 +1,11 @@
 {
   "author": "Kamar Mack",
   "description": "TS + gulp tutorial <https://www.typescriptlang.org/docs/handbook/gulp.html>",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^4.6.2"
+  },
   "keywords": [],
   "license": "ISC",
   "main": "./dist/main.js",
